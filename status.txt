@@ -1,0 +1,8 @@
+Dec 6, 2022
+Android app built cleanly
+
+Dec 7, 2022
+Copied to Android phone
+Install went OK, but when app ran, it did nothing.  Did not even output a log file.
+Examination of Android system log showed all of the python activity unpacking
+the app, but never had any error.
