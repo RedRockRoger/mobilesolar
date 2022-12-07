@@ -1,4 +1,8 @@
 Dec 6, 2022
+Raw Python copied to Android & runs fine in PyDroid
+	Writes log file
+	Hands off display to browser
+
 Android app built cleanly
 
 Dec 7, 2022
