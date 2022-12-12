@@ -4,7 +4,7 @@
 title = Mobile Solar Graph
 
 # (str) Package name
-package.name = msg
+package.name = msolargraph
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
@@ -50,7 +50,7 @@ requirements = python3,kivy,pandas,plotly
 icon.filename = %(source.dir)s/data/solar-panels.png
 
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
-orientation = portrait
+orientation = all
 
 # (list) List of service to declare
 #services = NAME:ENTRYPOINT_TO_PY,NAME2:ENTRYPOINT2_TO_PY
